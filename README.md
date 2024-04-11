@@ -1,1 +1,1 @@
-bbbasiiiic twitter bot for auto respond dm
+basiic twitter bot for auto respond dm

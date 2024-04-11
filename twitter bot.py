@@ -1,8 +1,8 @@
 import tweepy
 
 # Authenticate to Twitter
-auth = tweepy.OAuthHandler("YOUR_CONSUMER_KEY", "YOUR_CONSUMER_SECRET")
-auth.set_access_token("YOUR_ACCESS_TOKEN", "YOUR_ACCESS_TOKEN_SECRET")
+auth = tweepy.OAuthHandler(aJkpBzLfTT09CYcfwR6Qicmwi, ZFgGBgv8fTOMyQBTpKx57FLnBL3GBAHPxHPzzSyPjJGaqY45gv)
+auth.set_access_token(1137593159129522176-Br3C59uXjDORabJo0A9EAsgOiufynP, dbEP2LULd1rcIaN5xUPi8tiNtMLjANzjYgB0YLv8JAZYL)
 
 # Create API object
 api = tweepy.API(auth)
